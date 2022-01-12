@@ -1,3 +1,3 @@
-import ui from './ui'
+import ui from './UI'
 
 ui.init()
